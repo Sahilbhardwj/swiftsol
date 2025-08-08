@@ -36,7 +36,6 @@ This is a functional web application that interacts with the **Solana blockchain
 ### Setup
 
 ```bash
-git clone https://github.com/yourusername/SolSwift.git
-cd solana-wallet-app
+git clone https://github.com/Sahilbhardwj/swiftsol.git
 npm install
 npm start
